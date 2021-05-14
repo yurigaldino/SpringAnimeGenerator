@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
  *
  * @author Yuri Galdino
  */
-//Not working with API yet
+
 @SpringBootApplication
 @Controller
 public class HomeController {
